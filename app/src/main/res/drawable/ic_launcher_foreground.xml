@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Berry Body -->
+    <path
+        android:fillColor="#E89090"
+        android:pathData="M54,35C40,35 30,45 30,60C30,75 40,85 54,85C68,85 78,75 78,60C78,45 68,35 54,35Z" />
+    <!-- Berry Seeds (Cute dots) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M48,55h2v2h-2zM60,55h2v2h-2zM54,65h2v2h-2zM45,65h2v2h-2zM63,65h2v2h-2z" />
+    <!-- Berry Leaf/Stem -->
+    <path
+        android:fillColor="#A8D96B"
+        android:pathData="M54,35C54,35 50,25 45,28C40,31 48,35 54,35ZM54,35C54,35 58,25 63,28C68,31 60,35 54,35Z" />
+</vector>

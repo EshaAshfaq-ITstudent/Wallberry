@@ -25,4 +25,4 @@ Wallberry is a modern, aesthetic Android application built with **Jetpack Compos
 3. Build and run on an Android device (API 24+).
 
 ---
-*Made with ❤️ by Ayesha Ismail.*
+*Made with ❤️ by Esha Ashfaq & Ayesha Ismail.*
